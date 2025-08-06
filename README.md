@@ -11,13 +11,14 @@
 ###
 
 <p align="left">From language nerd to code newbie! 🚀<br><br>After years immersed in the world of languages and media, I’ve recently dived into web development... and I’m loving every bug and breakthrough.<br><br>
-- 🎓 BA in English Studies · MA in Translation, Interpretation and Intercultural Studies · MA in Audiovisual Translation.<br>
-- 💼 Former **Project Manager** in the localization industry — I've handled projects for clients like **Disney, Warner Bros.**, and **Disney+**  <br>
-- 🌍 Trilingual: Spanish, Catalan & English. I can survive in French and German, too 😉<br>
-- 🧠 Started learning to code in June 2025 — currently studying **Web Development @ IronHack**  <br>
-- 🥋 Just a humble BJJ white belt trying to survive (on the mat *and* in Java)  <br>
-- 📚 Big fan of fantasy books — if there’s magic or dragons, I’m in 🐉✨</p>
-
+  <ul>
+<li>🎓 BA in English Studies · MA in Translation, Interpretation and Intercultural Studies · MA in Audiovisual Translation.<br></li>
+<li>💼 Former <strong>Project Manager</strong>strong> in the localization industry — I've handled projects for clients like <strong>Disney, Warner Bros.</strong>strong>, and <strong>Disney+</strong>.<br></li>
+<li>🌍 Trilingual: Spanish, Catalan & English. I can survive in French and German, too 😉<br></li>
+<li>- 🧠 Started learning to code in June 2025 — currently studying <strong>Web Development</strong> @ IronHack.<br></li>
+<li>- 🥋 Just a humble BJJ white belt trying to survive (on the mat and in Java).<br></li>
+<li>- 📚 Big fan of fantasy books — if there’s magic or dragons, I’m in 🐉✨</li>
+  </ul></p>
 ###
 
 <div align="center">
@@ -74,6 +75,8 @@
 
 ###
 
-<p align="left">Feel free to check out my projects or drop me a message. I'm always up for a chat about code, languages, BJJ, or which fantasy book you’re reading right now ✨</p>
+<p align="left">Feel free to check out my projects or drop me a message. I'm always up for a chat about code, languages, BJJ, or which fantasy book you’re reading right now ✨ <br>
+Let’s build cool things and keep learning 🚀
+</p>
 
 ###
