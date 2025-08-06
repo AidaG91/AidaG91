@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Welcome to my little corner of GitHub — I'm **Aïda** from sunny Cunit, Spain 🌴  <br><br>Ex-languages & media nerd turned coding newbie — and absolutely loving it.</p>
+<p align="left">Welcome to my little corner of GitHub — I'm <strong>Aïda</strong> from sunny Cunit, Spain 🌴  <br>
+  <br>Ex-languages & media nerd turned coding newbie — and absolutely loving it.</p>
 
 ###
 
@@ -10,15 +11,16 @@
 
 ###
 
-<p align="left">From language nerd to code newbie! 🚀<br><br>After years immersed in the world of languages and media, I’ve recently dived into web development... and I’m loving every bug and breakthrough.<br><br>
+<p align="left">From language nerd to code newbie! 🚀<br><br>After years immersed in the world of languages and media, I’ve recently dived into web development... and I’m loving every bug and breakthrough.<br>
   <ul>
 <li>🎓 BA in English Studies · MA in Translation, Interpretation and Intercultural Studies · MA in Audiovisual Translation.<br></li>
-<li>💼 Former <strong>Project Manager</strong>strong> in the localization industry — I've handled projects for clients like <strong>Disney, Warner Bros.</strong>strong>, and <strong>Disney+</strong>.<br></li>
+<li>💼 Former <strong>Project Manager</strong> in the localization industry — I've handled projects for clients like <strong>Disney, Warner Bros.</strong>, and <strong>Disney+</strong>.<br></li>
 <li>🌍 Trilingual: Spanish, Catalan & English. I can survive in French and German, too 😉<br></li>
-<li>- 🧠 Started learning to code in June 2025 — currently studying <strong>Web Development</strong> @ IronHack.<br></li>
-<li>- 🥋 Just a humble BJJ white belt trying to survive (on the mat and in Java).<br></li>
-<li>- 📚 Big fan of fantasy books — if there’s magic or dragons, I’m in 🐉✨</li>
+<li>🧠 Started learning to code in June 2025 — currently studying <strong>Web Development</strong> @ IronHack.<br></li>
+<li>🥋 Just a humble BJJ white belt trying to survive (on the mat and in Java).<br></li>
+<li>📚 Big fan of fantasy books — if there’s magic or dragons, I’m in 🐉✨</li>
   </ul></p>
+  
 ###
 
 <div align="center">
@@ -28,7 +30,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/aidagarciamuste" target="_blank">
+ <a href="https://www.linkedin.com/in/aidagarciamuste" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -75,7 +77,7 @@
 
 ###
 
-<p align="left">Feel free to check out my projects or drop me a message. I'm always up for a chat about code, languages, BJJ, or which fantasy book you’re reading right now ✨ <br>
+<p align="left">Feel free to check out my projects or drop me a message. I'm always up for a chat about code, languages, BJJ, or which fantasy book you’re reading right now ✨ <br><br>
 Let’s build cool things and keep learning 🚀
 </p>
 
