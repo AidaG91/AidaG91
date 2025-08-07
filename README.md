@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDQ1anQ2ejk4enBtanpjeXN0Y2R3bjRvazA5eTF3ejNpZjc4N2RmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e4Jb5DtB0wPsui5cSp/giphy.gif"  />
+  <img height="200" src="Copilot_20250807_112726.png"  />
 </div>
 
 ###
