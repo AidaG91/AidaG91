@@ -16,7 +16,7 @@
 <li>🎓 BA in English Studies · MA in Translation, Interpretation and Intercultural Studies · MA in Audiovisual Translation.<br></li><br>
 <li>💼 Former <strong>Project Manager</strong> in the localization industry — I've handled projects for clients like <strong>Disney, Warner Bros.</strong>, and <strong>Disney+</strong>.<br></li><br>
 <li>🌍 Trilingual: Spanish, Catalan & English. I can survive in French and German, too 😉<br></li><br>
-<li>🧠 Started learning to code in June 2025 — currently studying <strong>Web Development</strong> @ IronHack.<br></li><br>
+<li>🧠 Started learning <strong>Web Development</strong> @ IronHack.<br> in June 2025</li><br>
 <li>🥋 Just a humble BJJ white belt trying to survive (on the mat and in Java).<br></li><br>
 <li>📚 Reader of fantasy, fallen into romantasy, and always down for a good space opera. May the Force (and plot twists) be with me and you all🪐</li><br>
   </ul></p>
