@@ -1,9 +1,9 @@
-<h1 align="center">Hello there! 👋</h1>
+<h1 align="center">Hi! I'm Aïda — Full-Stack Developer in progress 👋</h1>
 
 ###
 
 <p align="left">Welcome to my little corner of GitHub — I'm <strong>Aïda</strong> from sunny Cunit, Spain 🌴  <br>
-  <br>Ex-languages & media specialist turned into coding newbie — and loving it.</p>
+  <br>Ex-languages & media specialist turned web developer — and loving it.</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">After years immersed in the world of languages and media, I’ve recently dived into web development... and I’m loving every bug and breakthrough.<br>
+<p align="left">After years immersed in the world of languages and media, I recently transitioned into web development. I enjoy building full-stack applications, solving tricky bugs and continuously improving my code.<br>
   <ul>
 <li>🎓 BA in English Studies · MA in Translation, Interpretation and Intercultural Studies · MA in Audiovisual Translation.<br></li><br>
 <li>💼 Former <strong>Project Manager</strong> in the localization industry — I've handled projects for clients like <strong>Disney, Warner Bros.</strong>, and <strong>Disney+</strong>.<br></li><br>
@@ -20,6 +20,12 @@
 <li>🥋 Just a humble BJJ white belt trying to survive (on the mat and in Java).<br></li><br>
 <li>📚 Reader of fantasy, fallen into romantasy, and always down for a good space opera. May the Force (and plot twists) be with me and you all🪐</li><br>
   </ul></p>
+
+  ### 🚀 Currently working on
+
+• Improving my WordPress Membership Management Plugin
+• Building new full-stack projects with Spring Boot & React
+• Learning more about testing and backend architecture
   
 ###
 
