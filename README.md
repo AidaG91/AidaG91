@@ -23,9 +23,9 @@
 
   ### 🚀 Currently working on
 
-• Improving my WordPress Membership Management Plugin
-• Building new full-stack projects with Spring Boot & React
-• Learning more about testing and backend architecture
+<li>Improving my WordPress Membership Management Plugin</li><br>
+<li>Building new full-stack projects with Spring Boot & React</li><br>
+<li>learning more about testing and backend architecture</li><br>
   
 ###
 
