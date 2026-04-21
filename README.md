@@ -20,7 +20,7 @@ After years immersed in languages, media, and localization, I decided to shift c
 <li>🎓 BA in English Studies · MA in Translation, Interpretation & Intercultural Studies · MA in Audiovisual Translation.</li><br>
 <li>💼 Former <strong>Project Manager</strong> in the localization industry — worked with clients like <strong>Disney / Disney+</strong>, <strong>Warner Bros.</strong> and <strong>Lucasfilm</strong>.</li><br>
 <li>🌍 Trilingual: Spanish, Catalan & English. I can survive in French and German too 😉</li><br>
-<li>🧠 Started learning <strong>Web Development</strong> at IronHack in June 2024.  
+<li>🧠 Started learning <strong>Web Development</strong> at IronHack in June 2025.  
 Currently studying with <strong>Factoría F5</strong> and <strong>FemCoders</strong>.</li><br>
 <li>🥋 BJJ white belt trying to survive — both on the mat and in code.</li><br>
 <li>📚 Fantasy reader turned romantasy victim, always ready for a good space opera. May the Force (and plot twists) be with us 🪐</li>
