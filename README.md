@@ -19,11 +19,11 @@ After years immersed in languages, media, and localization, I decided to shift c
 <ul>
 <li>🎓 BA in English Studies · MA in Translation, Interpretation & Intercultural Studies · MA in Audiovisual Translation.</li><br>
 <li>💼 Former <strong>Project Manager</strong> in the localization industry — worked with clients like <strong>Disney / Disney+</strong>, <strong>Warner Bros.</strong> and <strong>Lucasfilm</strong>.</li><br>
-<li>🌍 Trilingual: Spanish, Catalan & English. I can survive in French and German too 😉</li><br>
+<li>🌍 Trilingual: Spanish, Catalan & English. I can survive in French and German too.</li><br>
 <li>🧠 Started learning <strong>Web Development</strong> at IronHack in June 2025.  
 Currently studying with <strong>Factoría F5</strong> and <strong>FemCoders</strong>.</li><br>
 <li>🥋 BJJ white belt trying to survive — both on the mat and in code.</li><br>
-<li>📚 Fantasy reader turned romantasy victim, always ready for a good space opera. May the Force (and plot twists) be with us 🪐</li>
+<li>📚 Fantasy reader turned romantasy victim, always ready for a good space opera. May the Force (and plot twists) be with us.</li>
 </ul>
 
 ---
@@ -31,9 +31,9 @@ Currently studying with <strong>Factoría F5</strong> and <strong>FemCoders</str
 <h3 align="left">🚀 Currently Working On</h3>
 
 <ul>
-<li>🔧 A WordPress Membership Management Plugin for the <strong>Associació Astronòmica de Sabadell</strong>.</li><br>
-<li>🌱 A personal project for my sister: <strong>Biquiño</strong>, a small web built in React — my playground to keep learning.</li><br>
-<li>🧪 Improving my skills in testing, backend architecture, and clean code.</li>
+<li> A WordPress Membership Management Plugin for the <strong>Associació Astronòmica de Sabadell</strong>.</li><br>
+<li> A personal project for my sister: <strong>Biquiño</strong>, a small web built in React — my playground to keep learning.</li><br>
+<li> Improving my skills in testing, backend architecture, and clean code.</li>
 </ul>
 
 ---
