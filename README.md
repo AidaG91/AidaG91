@@ -1,9 +1,9 @@
 <h1 align="center">Hi! I'm Aïda — Full-Stack Developer in Progress 👋</h1>
 
 <p align="left">
-Welcome to my little corner of GitHub — I'm <strong>Aïda</strong>, from sunny Cunit, Spain 🌴  
+Welcome to my GitHub, from sunny Cunit, Spain 🌴  
 <br><br>
-Ex-languages & media specialist turned web developer — and absolutely loving the journey.
+Ex-Localization Project Manager turned into Web Developer — and absolutely loving the journey.
 </p>
 
 ---
