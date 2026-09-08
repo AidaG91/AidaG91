@@ -1,9 +1,9 @@
-<h1 align="center">Hi! I'm Aïda — Full-Stack Developer in Progress 👋</h1>
+<h1 align="center">Hi! I'm Aïda — Full-Stack & DevOps Developer 👋</h1>
 
 <p align="left">
-Welcome to my GitHub, from sunny Cunit, Spain 🌴  
+Welcome to my GitHub, from sunny Cunit, Spain 🌴
 <br><br>
-Ex-Localization Project Manager turned into Web Developer — and absolutely loving the journey.
+Ex-Localization Project Manager turned Full-Stack / DevOps Developer.
 </p>
 
 ---
@@ -11,30 +11,40 @@ Ex-Localization Project Manager turned into Web Developer — and absolutely lov
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-After years immersed in languages, media, and localization, I decided to shift careers and dive into web development. I enjoy building full‑stack applications, solving tricky bugs, and writing clean, scalable code.
+After years immersed in languages, media, and localization — coordinating multilingual projects for clients like <strong>Disney / Disney+</strong>, <strong>Warner Bros.</strong> and <strong>Lucasfilm</strong> — I shifted careers into software development. I like building things end to end: React front ends, Spring Boot APIs, and the CI/CD pipelines that ship them.
 </p>
 
-<p align="left"><strong>💼 Currently open to work — looking for opportunities in full‑stack development, frontend, or backend roles.</strong></p>
+<p align="left"><strong>💼 Currently open to work — full-stack, backend, frontend, or DevOps / Junior Technical PM roles.</strong></p>
 
 <ul>
 <li>🎓 BA in English Studies · MA in Translation, Interpretation & Intercultural Studies · MA in Audiovisual Translation.</li><br>
-<li>💼 Former <strong>Project Manager</strong> in the localization industry — worked with clients like <strong>Disney / Disney+</strong>, <strong>Warner Bros.</strong> and <strong>Lucasfilm</strong>.</li><br>
+<li>💼 4+ years as <strong>Project Manager</strong> in the localization industry, coordinating international, multi-team projects.</li><br>
 <li>🌍 Trilingual: Spanish, Catalan & English. I can survive in French and German too.</li><br>
-<li>🧠 Started learning <strong>Web Development</strong> at IronHack in June 2025.  
-Currently studying with <strong>Factoría F5</strong> and <strong>FemCoders</strong>.</li><br>
-<li>🥋 BJJ white belt trying to survive — both on the mat and in code.</li><br>
-<li>📚 Fantasy reader turned romantasy victim, always ready for a good space opera. May the Force (and plot twists) be with us.</li>
+<li>🧠 Full-Stack training at <strong>IronHack</strong> (2025) and <strong>Factoría F5 / FemCoders</strong>.</li><br>
+<li>🥋 BJJ white belt trying to survive — both on the mat and in code.</li>
 </ul>
 
 ---
 
-<h3 align="left">🚀 Currently Working On</h3>
+<h3 align="left">🚀 Currently</h3>
 
 <ul>
-<li> A WordPress Membership Management Plugin for the <strong>Associació Astronòmica de Sabadell</strong>.</li><br>
-<li> A personal project for my sister: <strong>Biquiño</strong>, a small web built in React — my playground to keep learning.</li><br>
-<li> Improving my skills in testing, backend architecture, and clean code.</li>
+<li><strong>DevOps Intern @ i2CAT</strong> (EIDOS team) — building and validating a reusable <strong>GitLab CI/CD component catalog</strong> (linting, testing, code quality, build & deploy components) and migrating existing pipelines to use it.</li><br>
+<li>Building and running <strong>ShutterMats</strong>, an event photography platform for the BJJ/grappling community.</li><br>
+<li>Redesigning and rebuilding <strong>Biquiño</strong>, a React marketing site for my sister's business.</li>
 </ul>
+
+---
+
+<h3 align="left">💡 Featured Projects</h3>
+
+<p align="left">
+<strong>🥋 <a href="https://shuttermats.com">ShutterMats</a></strong> — Photography platform for BJJ/grappling events: photographers upload event galleries, competitors find and buy their photos. Spring Boot API + React/Vite frontend, deployed on Railway (backend) and Hostalia (frontend, CI/CD via GitHub Actions). <em>Live at <a href="https://shuttermats.com">shuttermats.com</a> · private repo.</em>
+</p>
+
+<p align="left">
+<strong>👗 <a href="https://github.com/AidaG91/biquino-dev">Biquiño</a></strong> — Marketing site for a personalized clothing / technical & graphic design business. React + Vite, currently being rebuilt from a full redesign using a spec-driven development workflow.
+</p>
 
 ---
 
@@ -52,6 +62,8 @@ Currently studying with <strong>Factoría F5</strong> and <strong>FemCoders</str
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" />
   <img width="12" />
@@ -75,13 +87,20 @@ Currently studying with <strong>Factoría F5</strong> and <strong>FemCoders</str
 
 ---
 
+<h3 align="left">🥋 Off the Clock</h3>
+
+<p align="left">
+BJJ white belt, always figuring out the next roll — and a fantasy reader turned romantasy victim, always ready for a good space opera. May the Force (and plot twists) be with us. 📚
+</p>
+
+---
+
 <h3 align="left">🙌 Thanks for stopping by!</h3>
 
 <p align="left">
-Feel free to explore my projects or reach out.  
-I'm always up for a chat about code, languages, BJJ, or your latest fantasy read ✨  
+Feel free to explore my projects or reach out.
 <br><br>
-Let’s keep learning and build cool things together 🚀
+Let's keep learning and build cool things together 🚀
 </p>
 
 <div align="center">
