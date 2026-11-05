@@ -1,9 +1,9 @@
-<h1 align="center">Hi! I'm Aïda — Full-Stack & DevOps Developer 👋</h1>
+<h1 align="center">Hi! I'm Aïda — Junior Full-Stack Developer 👋</h1>
 
 <p align="left">
 Welcome to my GitHub, from sunny Cunit, Spain 🌴
 <br><br>
-Ex-Localization Project Manager turned Full-Stack / DevOps Developer.
+Ex-Localization Project Coordinator turned Full-Stack Developer (Java / Spring Boot · React), with hands-on CI/CD experience.
 </p>
 
 
@@ -20,37 +20,41 @@ Ex-Localization Project Manager turned Full-Stack / DevOps Developer.
 <h2 align="left">👩‍💻 About Me</h2>
 
 <p align="left">
-After years immersed in languages, media, and localization — coordinating multilingual projects for clients like <strong>Disney / Disney+</strong>, <strong>Warner Bros.</strong> and <strong>Lucasfilm</strong> — I shifted careers into software development. I like building things end to end: React front ends, Spring Boot APIs, and the CI/CD pipelines that ship them.
+After years immersed in languages, media, and localization — coordinating multilingual projects for clients like <strong>Disney / Disney+</strong>, <strong>Warner Bros.</strong>, <strong>HBO</strong> and <strong>Lucasfilm</strong> — I shifted careers into software development. I like building things end to end: React front ends, Spring Boot APIs, and the pipelines that ship them.
 </p>
 
-<p align="left"><strong>💼 Currently open to work — full-stack, backend, frontend, or DevOps / Junior Technical PM roles.</strong></p>
+<p align="left"><strong>💼 Open to work — junior full-stack, backend or frontend developer roles (also technical project coordination). Open to remote roles, and to on-site or hybrid in the Barcelona or Tarragona area.</strong></p>
 
 <ul>
-<li> BA in English Studies · MA in Translation, Interpretation & Intercultural Studies · MA in Audiovisual Translation.</li><br>
-<li> 4+ years as <strong>Project Manager</strong> in the localization industry, coordinating international, multi-team projects.</li><br>
-<li> Trilingual: Spanish, Catalan & English. I can survive in French and German too.</li><br>
-<li> Full-Stack training at <strong>IronHack</strong> (2025) and <strong>Factoría F5 / FemCoders</strong>.</li><br>
-<li> BJJ white belt trying to survive — both on the mat and in code.</li>
+<li>Almost 4 years at <strong>Deluxe</strong> as Project Coordinator and then Senior Project Coordinator, working with teams in London, Los Angeles and Bangalore; before that, 3 years as academic coordinator and English teacher.</li><br>
+<li>Full-Stack training at <strong>IronHack</strong> (2025) and <strong>Factoría F5 / FemCoders</strong> (2026, full-stack with AI). Also: Docker course (Barcelona Activa) and ACTIC level 2.</li><br>
+<li>BA in English Studies · MA in Translation and Intercultural Studies · MA in Audiovisual Translation.</li><br>
+<li>Languages: Spanish and Catalan (native), English (C2), basic French and German.</li><br>
+<li>BJJ white belt trying to survive — both on the mat and in code.</li>
 </ul>
 
 
 <h2 align="left">🚀 Currently</h2>
 
 <ul>
-<li><strong>DevOps Intern @ i2CAT</strong> (EIDOS team) — building and validating a reusable <strong>GitLab CI/CD component catalog</strong> (linting, testing, code quality, build & deploy components) and migrating existing pipelines to use it.</li><br>
-<li>Building and running <strong>ShutterMats</strong>, an event photography platform for the BJJ/grappling community.</li><br>
-<li>Redesigning and rebuilding <strong>Biquiño</strong>, a React marketing site for my sister's business.</li>
+<li>Running <strong>ShutterMats</strong>, a live event photography platform for the BJJ/grappling community, which I designed, built and deployed solo.</li><br>
+<li>Maintaining <strong>Biquiño</strong>, the website I built and relaunched for my sister's business.</li><br>
+<li>Recently finished a <strong>DevOps internship at i2CAT</strong> (EIDOS team, Jul–Sep 2026): migrated legacy GitLab pipeline templates to reusable <strong>GitLab CI/CD components</strong> and debugged pipelines.</li>
 </ul>
 
 
 <h2 align="left">💡 Featured Projects</h2>
 
 <p align="left">
-<strong>🥋 <a href="https://shuttermats.com">ShutterMats</a></strong> — Photography platform for BJJ/grappling events: photographers upload event galleries, competitors find and buy their photos. Spring Boot API + React/Vite frontend, deployed on Railway (backend) and Hostalia (frontend, CI/CD via GitHub Actions). <em>Live at <a href="https://shuttermats.com">shuttermats.com</a> · private repo.</em>
+<strong>🥋 <a href="https://shuttermats.com">ShutterMats</a></strong> — Platform where BJJ/grappling athletes request photo coverage of their matches and pay for it, while the admin manages requests, event calendar and refunds from a dashboard. Java 21 + Spring Boot, PostgreSQL, JWT, Stripe (checkout, webhooks, refunds), React 19 + Vite, tests with JUnit and Vitest; deployed on Railway (backend) and Hostalia (frontend, CI/CD via GitHub Actions). Live in production with real payments. The in-house photo gallery is still in development; published event galleries link out to Pic-Time for now. <em>The code is private (real business): read the <a href="https://github.com/AidaG91/shuttermats-case-study">public case study</a>, or ask me for a walkthrough or read access.</em>
 </p>
 
 <p align="left">
-<strong>👗 <a href="https://github.com/AidaG91/biquino-dev">Biquiño</a></strong> — Marketing site for a personalized clothing / technical & graphic design business. React + Vite, currently being rebuilt from a full redesign using a spec-driven development workflow.
+<strong>🏠 Net2Rent</strong> — Incident-management system for rental properties, built with a team of 5 (Factoría F5 final project) using Scrum, Git and pull requests. Spring Boot + PostgreSQL backend with multi-tenant isolation, role-based permissions and JWT, and a React frontend for the guest portal and staff backoffice. <em><a href="https://github.com/Net2rent-FemCoders/net2rent-frontend">Frontend</a> · <a href="https://github.com/AidaG91/net2rent-backend">Backend</a></em>
+</p>
+
+<p align="left">
+<strong>🌐 <a href="https://biquino.es">Biquiño</a></strong> — Live website for a signage, digital printing and personalization studio (Verín, Ourense), built from a graphic designer's design. React + Vite, prerendered as static HTML, SCSS Modules, tests with Vitest, deployed on Netlify. <em><a href="https://github.com/AidaG91/biquino-dev">Source code</a></em>
 </p>
 
 
@@ -68,6 +72,10 @@ After years immersed in languages, media, and localization — coordinating mult
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" />
   <img width="12" />
@@ -94,7 +102,7 @@ Let's keep learning and build cool things together 🚀
 </p>
 
 <div align="center">
- <a href="https://www.linkedin.com/in/aidagarciamuste" target="_blank">
+ <a href="https://www.linkedin.com/in/aidagarciam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" />
   </a>
 </div>
